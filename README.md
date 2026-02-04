@@ -1,7 +1,7 @@
 # React + TypeScript To-Do App
 
-🔗 **Live Demo:** https://react-typescript-todo.netlify.app  
-💻 **GitHub Repo:** https://github.com/Devansh-Pal/react-typescript-todo
+🔗 **Live Demo:** https://react-type-s-todo-w-app.netlify.app/  
+💻 **GitHub Repo:** https://github.com/Devansh-Pal/react-typescript-todo.git
 
 A simple and clean to-do list application built to practice modern frontend development using React and TypeScript.
 
